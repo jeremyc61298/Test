@@ -6,3 +6,7 @@ Adding a line for a test
 Here is another line
 
 another line
+
+something conflicting
+
+
